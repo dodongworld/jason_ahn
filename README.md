@@ -7,6 +7,13 @@
 - 산업기능요원(보충역) 근무 예정
 - 서울 동대문구 답십리동 거주
 
+## Contacts
+
+- 이메일 : [dodongworld@gmail.com](mailto:dodongworld@gmail.com)
+- Github : [dodongworld](https://github.com/dodongworld)
+- 전화번호 : [01082464444](tel:01082464444)
+- 카카오 : theapps
+
 ## History
 
 기간 | 개요
@@ -18,12 +25,17 @@
 2011.07 ~2017.04 | (주)유비누리 개발팀 대리
 2009.03 ~ 2012.03 | 특성화고 이비즈니스과 졸업
 
-## Contacts
+## SkillSet
 
-- 이메일 : [dodongworld@gmail.com](mailto:dodongworld@gmail.com)
-- Github : [dodongworld](https://github.com/dodongworld)
-- 전화번호 : [01082464444](tel:01082464444)
-- 카카오 : theapps
+| Category | Title | Level (0: 초급 이하,1: 초급,2: 중급,3: 고급) |
+| :-------- | :--------: | --------: |
+| Language | HTML5,CSS3, | 3 |
+| Language | Javascript, jQuery | 2 |
+| Language | PHP, Ajax, | 1 |
+| Design | Photoshop, Illustrator | 3 |
+| Design | Aftereffect, Premier | 2 |
+| Office | Excel, Word, Powerpoint | 2 |
+
 
 <!--
 ## Blog posts
