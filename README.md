@@ -1,5 +1,4 @@
-# 안동현
-디자인, 마케팅, 웹개발을 한 번에 다 하려는 개자이너
+# 안동현 ###디자인, 마케팅, 웹개발을 한 번에 다 하려는 개자이너
 
 ## Profile
 
@@ -16,7 +15,7 @@
 
 - 이메일 : [dodongworld@gmail.com](mailto:dodongworld@gmail.com)
 - Github : [dodongworld](https://github.com/dodongworld)
-- 전화번호 : [dodongworld](tel:01082464444)
+- 전화번호 : [01082464444](tel:01082464444)
 - 카카오 : theapps
 
 <!--
