@@ -4,8 +4,10 @@
 ## Profile
 
 - 올해 26세(1993. 05. 01)
-- 산업기능요원(보충역) 근무 예정
 - 서울 동대문구 답십리동 거주
+- 산업기능요원(보충역) 근무 예정
+- 누구(뚠뚠 포메라니안), 세요(뚠뚠 스코티쉬 폴드) 아빠
+![alt text](/who.jpg ), ![alt text](/seyo.jpg )
 
 ## Contacts
 
@@ -31,7 +33,7 @@
 | :-------- | :--------: | --------: |
 | Language | HTML5, CSS3 | 3/3 |
 |  | Javascript, jQuery | 2/3 |
-|  | PHP, Ajax, | 1/3 |
+|  | PHP, Ajax | 1/3 |
 | Design | Photoshop, Illustrator | 3/3 |
 |  | Aftereffect, Premier | 2/3 |
 | Office | Excel, Word, Powerpoint | 2/3 |
