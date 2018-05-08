@@ -25,15 +25,15 @@
 2011.07 ~2017.04 | (주)유비누리 개발팀 대리
 2009.03 ~ 2012.03 | 특성화고 이비즈니스과 졸업
 
-## SkillSet
+## Skill Set
 
 | Category | Title | Level |
 | :-------- | :--------: | --------: |
 | Language | HTML5, CSS3 | 3/3 |
-| Language | Javascript, jQuery | 2/3 |
-| Language | PHP, Ajax, | 1/3 |
+|  | Javascript, jQuery | 2/3 |
+|  | PHP, Ajax, | 1/3 |
 | Design | Photoshop, Illustrator | 3/3 |
-| Design | Aftereffect, Premier | 2/3 |
+|  | Aftereffect, Premier | 2/3 |
 | Office | Excel, Word, Powerpoint | 2/3 |
 
 
