@@ -1,5 +1,5 @@
 <style>
-    img[alt=WhoRU] { width: 200px !important; }
+    .markdown-body img { width: 50% !important; }
 </style>
 
 # 안동현
