@@ -1,17 +1,25 @@
-# 이영찬
+# 안동현
+- 디자인, 마케팅, 웹개발을 한 번에 다 하려는 개자이너
 
-## Introduction
+## Profile
 
-2017년 기준 고등학교 2학년인 고등학생 개발자입니다. 주력 언어로 C#을, 외에는 python3에 익숙하며 함수형 프로그래밍에 관심이 많은 힙스터 지망생입니다.
+- 1993. 05. 01
+- 산업기능요원(보충역) 근무 예정
+- 서울 동대문구 답십리동 거주
 
-세상에서 프로그래밍이 제일 좋지만 이거다 싶은 분야가 없어서 무엇을 좋아하는지 알기 위해 꾸준히 공부하고 개발하고 있습니다.
+## History
+
+- 특성화고 이비즈니스과 졸업
+- 한양대학교 공과대학 정보융합학부 재학
 
 ## Contacts
 
-- 이메일 : [sonagi.philly@gmail.com](mailto:sonagi.philly@gmail.com)
-- Github : [phillyai](https://github.com/phillyai)
-- 블로그 : [phillyai](http://phillyai.github.io/)
+- 이메일 : [dodongworld@gmail.com](mailto:dodongworld@gmail.com)
+- Github : [dodongworld](https://github.com/dodongworld)
+- 전화번호 : [dodongworld](tel:01082464444)
+- 카카오 : theapps
 
+<!--
 ## Blog posts
 
 - [The Fun Of Reinvention](https://phillyai.github.io/2017-07-02-The-Fun-Of-Reinvention/)
@@ -70,3 +78,4 @@ C/C++ 의 __asm__ 혹은 __asm 키워드를 C#에서 비슷하게 구현하여 �
 ![gcs](/imgs/gcs.png)
 
 반응형 작도 시뮬레이션 프로그램. [수학을 좋아하는 친구](https://github.com/bigblueberry)와 함께 개발.
+-->
