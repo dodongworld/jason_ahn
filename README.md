@@ -30,7 +30,7 @@
 
 ## Skill Set
 
-| Category | Title | Level |
+| Category | Tools | Level |
 | :-------- | :--------: | --------: |
 | Language | HTML5, CSS3 | 3/3 |
 |  | Javascript, jQuery | 2/3 |
