@@ -1,5 +1,5 @@
 <style>
-    img[alt=WhoRU] { width: 200px; }
+    img[alt=WhoRU] { width: 200px !important; }
 </style>
 
 # 안동현
@@ -11,7 +11,7 @@
 - 서울 동대문구 답십리동 거주
 - 산업기능요원(보충역) 근무 예정
 - 누구(뚠뚠 포메라니안), 세요(뚠뚠 스코티쉬 폴드) 아빠
-![WhoRU](/who.jpg)
+- ![WhoRU](/who.jpg)
 
 ## Contacts
 
