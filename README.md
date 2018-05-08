@@ -1,6 +1,3 @@
-<style>
-    .markdown-body img { width: 50% !important; }
-</style>
 
 # 안동현
 디자인, 마케팅, 웹개발을 한 번에 다 하려는 개자이너
@@ -11,7 +8,7 @@
 - 서울 동대문구 답십리동 거주
 - 산업기능요원(보충역) 근무 예정
 - 누구(뚠뚠 포메라니안), 세요(뚠뚠 스코티쉬 폴드) 아빠
-- ![WhoRU](/who.jpg)
+- ![WhoRU](/WhoRU.jpg)
 
 ## Contacts
 
