@@ -27,14 +27,14 @@
 
 ## SkillSet
 
-| Category | Title | Level (0: 초급 이하,1: 초급,2: 중급,3: 고급) |
+| Category | Title | Level |
 | :-------- | :--------: | --------: |
-| Language | HTML5,CSS3, | 3 |
-| Language | Javascript, jQuery | 2 |
-| Language | PHP, Ajax, | 1 |
-| Design | Photoshop, Illustrator | 3 |
-| Design | Aftereffect, Premier | 2 |
-| Office | Excel, Word, Powerpoint | 2 |
+| Language | HTML5, CSS3 | 3/3 |
+| Language | Javascript, jQuery | 2/3 |
+| Language | PHP, Ajax, | 1/3 |
+| Design | Photoshop, Illustrator | 3/3 |
+| Design | Aftereffect, Premier | 2/3 |
+| Office | Excel, Word, Powerpoint | 2/3 |
 
 
 <!--
