@@ -7,7 +7,7 @@
 - 서울 동대문구 답십리동 거주
 - 산업기능요원(보충역) 근무 예정
 - 누구(뚠뚠 포메라니안), 세요(뚠뚠 스코티쉬 폴드) 아빠
-<img src="/who..jpg" style="width:50%;">
+![Image](/who.jpg){: width="50%" height="50%"}
 
 ## Contacts
 
