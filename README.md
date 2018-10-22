@@ -35,10 +35,13 @@
 | Language | HTML5, CSS3 | 3/3 |
 |  | Javascript, jQuery | 2/3 |
 |  | PHP, Ajax | 1/3 |
-| framework | Bootstrap | 2/3 |
+| Framework | Bootstrap | 2/3 |
 |  | WordPress | 2/3 |
 |  | XpressEngine | 2/3 |
 |  | Cafe24 | 2/3 |
 | Design | Photoshop, Illustrator | 3/3 |
 |  | Aftereffect, Premier | 2/3 |
+| Marketing | Social Network | 2/3 |
+|  | Google Analtyics | 2/3 |
+|  | Naver Webmaster | 2/3 |
 | Office | Excel, Word, Powerpoint | 2/3 |
