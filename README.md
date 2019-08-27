@@ -15,7 +15,6 @@
 
 - 이메일 : [dodongworld@gmail.com](mailto:dodongworld@gmail.com)
 - Github : [dodongworld](https://github.com/dodongworld)
-- 전화번호 : [01082464444](tel:01082464444)
 - 카카오 : theapps
 
 ## History
